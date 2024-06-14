@@ -22,7 +22,7 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to asra's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
@@ -37,16 +37,16 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <img src="https://gifdb.com/images/high/yay-jaidenanimations-cheering-l3o6gkzu686tp9xs.gif" />
           <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://gifdb.com/images/high/broke-498-x-364-gif-1rao3xseu9obbg2m.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Watch an episode?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
